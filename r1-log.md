@@ -5,6 +5,7 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+Working on a telegram bot. Python script is running as a background service.
 
 ### R1D2
+Tweaking my Telegram Bot. I am working on add (append) the CPU temp to a log file. After that worked, I wanted to add that as a function to the telegramBot python script, but that did not succeed. 
